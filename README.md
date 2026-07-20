@@ -1,4 +1,10 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=2E8B57&height=180&section=header"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Yubin!;Nice+to+meet+you!" alt="Hi, I'm Yubin!"/>
+</h1>
+
 <br>
 
 ## 🛠 Tech Stack
