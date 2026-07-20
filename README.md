@@ -31,5 +31,12 @@
 
 <br>
 
+## 🐾 GitAnimals
+<a href="https://gitanimals.org" target="_blank">
+  <img src="https://render.gitanimals.org/farms/oilbeaneda" width="600" height="300" alt="oilbeaneda's gitanimals farm"/>
+</a>
+
+<br>
+
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=oilbeaneda&show_icons=true&theme=radical" alt="oilbeaneda's GitHub stats" />
